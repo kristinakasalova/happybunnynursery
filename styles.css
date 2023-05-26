@@ -7843,7 +7843,7 @@ textarea.form-control-lg {
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
-  background:url(bbc-creative-1w20Cysy1cg-unsplash.jpg) no-repeat center 50% / 1800px fixed;
+  background:url(Pics/bbc-creative-1w20Cysy1cg-unsplash.jpg) no-repeat center 50% / 1800px fixed;
 }
 
 .bg-black {
@@ -11307,4 +11307,9 @@ textarea.form-control-lg {
   left: 0;
   top: 0;
   position: absolute;
+}
+
+#map {
+  height: 400px; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
 }
