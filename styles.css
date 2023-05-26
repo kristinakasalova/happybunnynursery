@@ -7843,7 +7843,7 @@ textarea.form-control-lg {
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
-  background:url(Pics/bbc-creative-1w20Cysy1cg-unsplash.jpg) no-repeat center 50% / 1800px fixed;
+  background:url(bbc-creative-1w20Cysy1cg-unsplash.jpg) no-repeat center 50% / 1800px fixed;
 }
 
 .bg-black {
